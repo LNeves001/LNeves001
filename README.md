@@ -22,6 +22,6 @@ You can check out some of my Front-End projects in my repositories. I'm actively
 
 ## Connect with Me
 
-I'd love to connect with fellow developers, collaborate on projects, and learn from the community. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/seu-nome/) or [Twitter](https://twitter.com/seu-nome), and let's chat!
+I'd love to connect with fellow developers, collaborate on projects, and learn from the community. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lucasmartinsn/) or [Twitter](https://twitter.com/LucasMa54031445), and let's chat!
 
 Thanks for stopping by, and I look forward to sharing my coding journey with you. Happy coding! 🚀
